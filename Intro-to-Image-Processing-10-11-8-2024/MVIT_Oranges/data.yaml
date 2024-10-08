@@ -1,0 +1,12 @@
+names:
+- orange
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: mvit_oranges-xzdwd
+  url: https://universe.roboflow.com/objectdetectionproject/mvit_oranges-xzdwd/dataset/1
+  version: 1
+  workspace: objectdetectionproject
+test: test/images
+train: train/images
+val: valid/images
